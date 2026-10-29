@@ -1,0 +1,22 @@
+{
+  "wheel_id": 513,
+  "structure": "umbrella",
+  "slug": "sydneyhomeloanbroker-152",
+  "project": "mortgage-brokers-sydney-what-to-expect-7d59747c77dbbd5da9814b78",
+  "parent_t1_ref": "sydneyhomeloanbroker-011",
+  "node_role": "buffer",
+  "money_target": "sydneyhomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers sydney what to expect",
+  "intended_url": "https://sitesau.github.io/sydneyhomeloanbroker-152/",
+  "tier": "T2",
+  "writeback_nonce": "658610a4cc29ab9a",
+  "links": [
+    {
+      "target_url": "https://mortgage-brokers-sydney-sydneyhomeloanbroker-011-619dea.gitlab.io/",
+      "anchor": "this mortgage brokers sydney guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
